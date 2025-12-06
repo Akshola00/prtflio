@@ -54,10 +54,6 @@ export function AboutSection() {
 
             <div className="flex flex-wrap gap-4 pt-4 text-sm text-muted-foreground">
               <div className="flex items-center gap-2">
-                <MapPin className="h-4 w-4 text-primary" />
-                <span>Nigeria</span>
-              </div>
-              <div className="flex items-center gap-2">
                 <Briefcase className="h-4 w-4 text-primary" />
                 <span>Open to opportunities</span>
               </div>
